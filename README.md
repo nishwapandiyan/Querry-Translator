@@ -239,7 +239,7 @@ docker run -p 3000:3000 -e GEMINI_API_KEY=your_key_here querygen-ai
 
 <div align="center">
   <p>Built with care by nishw</p>
-  <p><a href="https://github.com/nishw/querygen-ai">GitHub Repository</a></p>
+  <p><a href="https://github.com/nishwapandiyan/Querry-Translator">GitHub Repository</a></p>
 </div>
 #   S Q L - T r a n s l a t o r 
  
